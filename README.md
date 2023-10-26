@@ -1,8 +1,8 @@
 # Minimal Blog Card Design
 
-![Minimal Blog Card design desktop](https://github.com/e-Coder101/Minimal-Blog-Card/assets/141315334/dbb7c8f4-2a2a-4e9e-b9c1-998b1c814756 | height = 300)
+![Minimal Blog Card design desktop](https://github.com/e-Coder101/Minimal-Blog-Card/assets/141315334/dbb7c8f4-2a2a-4e9e-b9c1-998b1c814756)
 
-![Minimal Blog Card design mobile](https://github.com/e-Coder101/Minimal-Blog-Card/assets/141315334/b85502a8-8d3a-45a5-80d1-68d18ef36037 | height = 300)
+![Minimal Blog Card design mobile](https://github.com/e-Coder101/Minimal-Blog-Card/assets/141315334/b85502a8-8d3a-45a5-80d1-68d18ef36037)
 
 
 ## Experience
